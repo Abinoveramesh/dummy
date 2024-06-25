@@ -17,4 +17,6 @@ jobs:
         uses: actions/setup-node@v3
 
       - name: Say hi
-        run: echo "hi"
+        run: echo "hello"
+
+      -run: npm install
