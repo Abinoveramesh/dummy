@@ -3,3 +3,5 @@ build/*
 
 # Exclude environment specific files
 .env
+
+text.txt
