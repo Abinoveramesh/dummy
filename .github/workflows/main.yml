@@ -18,5 +18,3 @@ jobs:
 
       - name: Say hi
         run: echo "hello"
-
-      -run: npm install
