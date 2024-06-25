@@ -1,0 +1,5 @@
+# Exclude build artifacts
+build/*
+
+# Exclude environment specific files
+.env
